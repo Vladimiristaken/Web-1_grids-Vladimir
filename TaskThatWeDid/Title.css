@@ -1,0 +1,25 @@
+.What{
+    list-style-type: square;
+    background: rgb(171, 2, 2);
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1.3em;
+    line-height: 170%;
+    padding: 20px;
+    width: 20%;
+    margin-left: 20px;
+    border: solid black
+}
+
+.What li {
+    background: lightblue;
+    padding: 5px;
+    margin: 0px 0px 5px 20px;
+  }
+  
+
+.Mouse{
+    list-style-type: circle;
+    background: rgb(8, 174, 229);
+    padding: 5px;
+    margin-left: 0px;
+}
